@@ -12,6 +12,6 @@
 
 
 ## Result in list
-Replace ; by \G
+Replace `;` by `\G`
 
     mysql> SELECT * FROM mysql.db LIMIT 0,1\G
